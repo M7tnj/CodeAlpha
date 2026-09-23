@@ -1,0 +1,11 @@
+{
+  "paths": [
+    {
+      "_path": "bin/clustalo",
+      "path_type": "hardlink",
+      "sha256": "36c9404e7a2cf09ee9a9f6fd93bc32bc041d4136489fa449065eb461a2cbe0d0",
+      "size_in_bytes": 669920
+    }
+  ],
+  "paths_version": 1
+}

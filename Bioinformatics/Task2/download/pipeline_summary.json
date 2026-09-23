@@ -1,0 +1,49 @@
+{
+  "protein_query": "TP53",
+  "family_query": "family:\"P53 family\" AND reviewed:true",
+  "n_sequences": 40,
+  "max_sequences": 40,
+  "clustal_omega": {
+    "alignment_path": "download/alignment_clustal_omega.fasta",
+    "n_columns": 950,
+    "sp_score": 155467
+  },
+  "muscle": {
+    "alignment_path": "download/alignment_muscle.fasta",
+    "n_columns": 1049,
+    "sp_score": 159509
+  },
+  "conservation": {
+    "mean_entropy_bits": 1.0219285763270851,
+    "strictly_conserved_cols": 203,
+    "highly_conserved_cols": 270,
+    "mean_consensus_identity_pct": 68.97802390941321,
+    "mean_gap_freq_pct": 54.87894736842104,
+    "consensus_path": "download/consensus_sequence.txt",
+    "regions_path": "download/conserved_regions.tsv",
+    "n_conserved_regions": 8
+  },
+  "motifs": {
+    "summary_csv": "download/prosite_motifs_summary.csv",
+    "hits_json": "download/prosite_motif_hits.json",
+    "n_motifs_scanned": 8,
+    "top_motif": {
+      "motif": "PS00001 N-glycosylation site (N-{P}-[ST]-{P})",
+      "n_hits": 88,
+      "n_seqs_with_hit": 40,
+      "fraction_seqs": 1.0
+    }
+  },
+  "phylogeny": {
+    "newick_path": "download/p53_tree.newick",
+    "plot_path": "download/figures/phylogenetic_tree.png"
+  },
+  "figures": {
+    "conservation_plot": "download/figures/conservation_plot.png",
+    "sequence_logo": "download/figures/sequence_logo.png",
+    "motif_summary": "download/figures/prosite_motif_summary.png",
+    "phylogenetic_tree": "download/figures/phylogenetic_tree.png",
+    "length_distribution": "download/figures/length_distribution.png"
+  },
+  "metadata_csv": "download/uniprot_metadata.csv"
+}

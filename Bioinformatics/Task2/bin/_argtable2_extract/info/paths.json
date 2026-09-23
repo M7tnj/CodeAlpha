@@ -1,0 +1,227 @@
+{
+  "paths": [
+    {
+      "_path": "include/argtable2.h",
+      "path_type": "hardlink",
+      "sha256": "cb4bc1e09b8d7c6b63f7591d667d885249cd8f707f1bc5e31c718655c12ae422",
+      "size_in_bytes": 12243
+    },
+    {
+      "_path": "lib/libargtable2.a",
+      "path_type": "hardlink",
+      "sha256": "9dae47361d958726aa39fa04b38a9da5acbbd03ebb9dc4430aa3939b8de2aada",
+      "size_in_bytes": 47326
+    },
+    {
+      "_path": "lib/libargtable2.la",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "d52490b8526bacc90fb4c5260da3376cdc82d9f9540f37f18120034da9dafbe6",
+      "size_in_bytes": 1039
+    },
+    {
+      "_path": "lib/libargtable2.so",
+      "path_type": "softlink",
+      "sha256": "3919c2d77892dc71db562751d55e24e7e39af3ff3b023b0c6c861b1cc86f589e",
+      "size_in_bytes": 40152
+    },
+    {
+      "_path": "lib/libargtable2.so.0",
+      "path_type": "softlink",
+      "sha256": "3919c2d77892dc71db562751d55e24e7e39af3ff3b023b0c6c861b1cc86f589e",
+      "size_in_bytes": 40152
+    },
+    {
+      "_path": "lib/libargtable2.so.0.1.8",
+      "path_type": "hardlink",
+      "sha256": "3919c2d77892dc71db562751d55e24e7e39af3ff3b023b0c6c861b1cc86f589e",
+      "size_in_bytes": 40152
+    },
+    {
+      "_path": "lib/pkgconfig/argtable2.pc",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "c6ad3bbee0eec66fc3669b29ee7a5003b81710ff57ddea3016dfbd9d689c89c7",
+      "size_in_bytes": 270
+    },
+    {
+      "_path": "share/doc/argtable2/arg_int.gif",
+      "path_type": "hardlink",
+      "sha256": "796ef3a6bf3fd57720683525843f774ab43f142d1517fd71850bff63811ac60e",
+      "size_in_bytes": 16397
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2-advanced.html",
+      "path_type": "hardlink",
+      "sha256": "35d12a8e317fe349e059d562bee0b99e87a30d2228c72f4f1ddee945c797943d",
+      "size_in_bytes": 30906
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2-advanced.pdf",
+      "path_type": "hardlink",
+      "sha256": "f21fc9ecdcc8b4345b267880cef0d88fcbe4a151124b3e00080af1ffd2531f0a",
+      "size_in_bytes": 616990
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2-advanced.ps",
+      "path_type": "hardlink",
+      "sha256": "4e309f6efc0e2c371154980375f2243e1674ab7a3995d6386eeef09160c5dfc3",
+      "size_in_bytes": 1325069
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2-intro.html",
+      "path_type": "hardlink",
+      "sha256": "3796507ded0598076df902b9dbe3fddff7cfec1b68a5392c5ffd179903f02efe",
+      "size_in_bytes": 35549
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2-intro.pdf",
+      "path_type": "hardlink",
+      "sha256": "e9dbbd1e0e565b6b5773b4ae0d87392c6ff1aee686de7a4eac8fdef22a1c14b9",
+      "size_in_bytes": 550871
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2-intro.ps",
+      "path_type": "hardlink",
+      "sha256": "2012121263a18c329802220132be2c2cd81183269c32aa2c9afa08a258504724",
+      "size_in_bytes": 1816001
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2.html",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "fbc9e8b4eb904c055b32c4b9e14b5c7e45505fc81f47a1ad506f03ca105c0e99",
+      "size_in_bytes": 24531
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2.pdf",
+      "path_type": "hardlink",
+      "sha256": "17b62e8a8dbbf1a86dffbb9997c041d54e4408eefeca62211732f2430700db4f",
+      "size_in_bytes": 20319
+    },
+    {
+      "_path": "share/doc/argtable2/argtable2.ps",
+      "path_type": "hardlink",
+      "sha256": "e355e423fde5723b18c1cf3854c466f5d1700ea8b585763c154c1f181fd81882",
+      "size_in_bytes": 39747
+    },
+    {
+      "_path": "share/doc/argtable2/argxxx.gif",
+      "path_type": "hardlink",
+      "sha256": "882911391c8131bb4e6ea10ce7669a7b3a13489e66ddabb8fd0b37f2bd1e48df",
+      "size_in_bytes": 29513
+    },
+    {
+      "_path": "share/doc/argtable2/example/Makefile",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "9f8644dd601eed0d27309397f1bb4354ac6b8957482be886419b2d83d70a95a1",
+      "size_in_bytes": 1706
+    },
+    {
+      "_path": "share/doc/argtable2/example/README.txt",
+      "path_type": "hardlink",
+      "sha256": "9647753aa58e5857bb87169adb1fc4573e84a1d0cc6499265d689592416f3c86",
+      "size_in_bytes": 1050
+    },
+    {
+      "_path": "share/doc/argtable2/example/argcustom.c",
+      "path_type": "hardlink",
+      "sha256": "391b99846fe8fad839c1c1005d743a22c670794255deeeddb3f94d9bc9ba150d",
+      "size_in_bytes": 3920
+    },
+    {
+      "_path": "share/doc/argtable2/example/argxxx.c",
+      "path_type": "hardlink",
+      "sha256": "a7900b93f6731b3cbe2c1b28cac510c1ae67a8d3bad2413f0facb80d9c1f38d8",
+      "size_in_bytes": 9838
+    },
+    {
+      "_path": "share/doc/argtable2/example/argxxx.h",
+      "path_type": "hardlink",
+      "sha256": "01836528c40dedc1b7675948b471fc65f046e842134b56f9e840666c351f119d",
+      "size_in_bytes": 2095
+    },
+    {
+      "_path": "share/doc/argtable2/example/callbacks.c",
+      "path_type": "hardlink",
+      "sha256": "eada478f6f5cee5880a303eb91d0ddc7ca62d8d69fb6791e7d5165fd71c7b1b9",
+      "size_in_bytes": 7773
+    },
+    {
+      "_path": "share/doc/argtable2/example/echo.c",
+      "path_type": "hardlink",
+      "sha256": "13f7cdf5ce5d024e730938e0ffd5b57f8327ec91dd509d2f0fa606a72863b180",
+      "size_in_bytes": 4690
+    },
+    {
+      "_path": "share/doc/argtable2/example/hasoptvalue.c",
+      "path_type": "hardlink",
+      "sha256": "6e9bcac58db3f8726a1fe78051465bcacf5a7595c49e5555ea696303fa75023f",
+      "size_in_bytes": 4727
+    },
+    {
+      "_path": "share/doc/argtable2/example/ls.c",
+      "path_type": "hardlink",
+      "sha256": "9385f75c9a042729444a6c00fbf14a445cbf979e7102bfeb8c4c55b9ed69572f",
+      "size_in_bytes": 15878
+    },
+    {
+      "_path": "share/doc/argtable2/example/multisyntax.c",
+      "path_type": "hardlink",
+      "sha256": "c345b38f2017b7375d4b15e028e5446543b2882bb00d6a6a9e62bac77fc26415",
+      "size_in_bytes": 9440
+    },
+    {
+      "_path": "share/doc/argtable2/example/mv.c",
+      "path_type": "hardlink",
+      "sha256": "dc4b0380a177c16d8aa83c740db02d4e2bfbce582859ec62ebeb6489c7707553",
+      "size_in_bytes": 7905
+    },
+    {
+      "_path": "share/doc/argtable2/example/myprog.c",
+      "path_type": "hardlink",
+      "sha256": "a19d3b118dcd07219d65e178125d7dfc0361818b915cd40bea915810ed8bbb89",
+      "size_in_bytes": 5439
+    },
+    {
+      "_path": "share/doc/argtable2/example/myprog_C89.c",
+      "path_type": "hardlink",
+      "sha256": "964eb44cb884cebaa794a9ae7d6dd751a1d1c6ca5d6fd4d0c0833f4878fd5d32",
+      "size_in_bytes": 5930
+    },
+    {
+      "_path": "share/doc/argtable2/example/rm.c",
+      "path_type": "hardlink",
+      "sha256": "ae9a8efecf7b202e50f0b8116036cce6ec9c0fca4bae7c9b3a3b9006bff76f86",
+      "size_in_bytes": 4819
+    },
+    {
+      "_path": "share/doc/argtable2/example/uname.c",
+      "path_type": "hardlink",
+      "sha256": "c4f7ac1645d6333b614bfd1534b7283efae61212b4eaf0e981c91d3095b378af",
+      "size_in_bytes": 5105
+    },
+    {
+      "_path": "share/man/man3/argtable.3",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "e9f82330f6d99cd25117462a7f18c04da42efe827799c3bc73352e1124837b73",
+      "size_in_bytes": 19674
+    },
+    {
+      "_path": "share/man/man3/argtable2.3",
+      "file_mode": "text",
+      "path_type": "hardlink",
+      "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+      "sha256": "e9f82330f6d99cd25117462a7f18c04da42efe827799c3bc73352e1124837b73",
+      "size_in_bytes": 19674
+    }
+  ],
+  "paths_version": 1
+}

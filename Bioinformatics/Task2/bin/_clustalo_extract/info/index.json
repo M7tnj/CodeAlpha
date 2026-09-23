@@ -1,0 +1,16 @@
+{
+  "arch": "x86_64",
+  "build": "hdbdd923_8",
+  "build_number": 8,
+  "depends": [
+    "argtable2",
+    "libgcc-ng >=12",
+    "libstdcxx-ng >=12"
+  ],
+  "license": "GPLv2",
+  "name": "clustalo",
+  "platform": "linux",
+  "subdir": "linux-64",
+  "timestamp": 1714545498052,
+  "version": "1.2.4"
+}

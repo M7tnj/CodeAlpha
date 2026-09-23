@@ -1,0 +1,41 @@
+accession,uniprot_id,gene,protein_name,organism,length
+O15350,P73_HUMAN,TP73,Tumor protein p73,Homo sapiens,636
+P04637,P53_HUMAN,TP53,Cellular tumor antigen p53,Homo sapiens,393
+Q9H3D4,P63_HUMAN,TP63,Tumor protein 63,Homo sapiens,680
+P10361,P53_RAT,Tp53,Cellular tumor antigen p53,Rattus norvegicus,391
+Q9JJP6,P63_RAT,Tp63,Tumor protein 63,Rattus norvegicus,680
+Q20646,CEP1_CAEEL,cep-1,Transcription factor cep-1,Caenorhabditis elegans,644
+P02340,P53_MOUSE,Tp53,Cellular tumor antigen p53,Mus musculus,390
+P79734,P53_DANRE,tp53,Cellular tumor antigen p53,Danio rerio,373
+Q9JJP2,P73_MOUSE,Tp73,Tumor protein p73,Mus musculus,631
+O88898,P63_MOUSE,Tp63,Tumor protein 63,Mus musculus,680
+P67939,P53_BOVIN,TP53,Cellular tumor antigen p53,Bos taurus,386
+O09185,P53_CRIGR,TP53,Cellular tumor antigen p53,Cricetulus griseus,393
+P10360,P53_CHICK,TP53,Cellular tumor antigen p53,Gallus gallus,367
+Q64662,P53_OTOBE,TP53,Cellular tumor antigen p53,Otospermophilus beecheyi,314
+Q8SPZ3,P53_DELLE,TP53,Cellular tumor antigen p53,Delphinapterus leucas,387
+Q95330,P53_RABIT,TP53,Cellular tumor antigen p53,Oryctolagus cuniculus,391
+Q9TTA1,P53_TUPBE,TP53,Cellular tumor antigen p53,Tupaia belangeri,393
+Q9WUR6,P53_CAVPO,TP53,Cellular tumor antigen p53,Cavia porcellus,391
+P41685,P53_FELCA,TP53,Cellular tumor antigen p53,Felis catus,386
+P56424,P53_MACMU,TP53,Cellular tumor antigen p53,Macaca mulatta,393
+P79892,P53_HORSE,TP53,Cellular tumor antigen p53,Equus caballus,280
+Q29537,P53_CANLF,TP53,Cellular tumor antigen p53,Canis lupus familiaris,381
+O36006,P53_MARMO,TP53,Cellular tumor antigen p53,Marmota monax,391
+P13481,P53_CHLAE,TP53,Cellular tumor antigen p53,Chlorocebus aethiops,393
+P61260,P53_MACFU,TP53,Cellular tumor antigen p53,Macaca fuscata fuscata,393
+Q29480,P53_EQUAS,TP53,Cellular tumor antigen p53,Equus asinus,207
+P51664,P53_SHEEP,TP53,Cellular tumor antigen p53,Ovis aries,382
+P56423,P53_MACFA,TP53,Cellular tumor antigen p53,Macaca fascicularis,393
+P67938,P53_BOSIN,TP53,Cellular tumor antigen p53,Bos indicus,386
+Q00366,P53_MESAU,TP53,Cellular tumor antigen p53,Mesocricetus auratus,396
+Q9TUB2,P53_PIG,TP53,Cellular tumor antigen p53,Sus scrofa,386
+A8WW61,CEP1_CAEBR,cep-1,Transcription factor cep-1,Caenorhabditis briggsae,658
+P25035,P53_ONCMY,tp53,Cellular tumor antigen p53,Oncorhynchus mykiss,396
+O93379,P53_ICTPU,tp53,Cellular tumor antigen p53,Ictalurus punctatus,376
+P79820,P53_ORYLA,tp53,Cellular tumor antigen p53,Oryzias latipes,352
+Q9XSK8,P73_CHLAE,TP73,Tumor protein p73,Chlorocebus aethiops,637
+O12946,P53_PLAFE,tp53,Cellular tumor antigen p53,Platichthys flesus,366
+O57538,P53_XIPHE,tp53,Cellular tumor antigen p53,Xiphophorus hellerii,342
+P07193,P53_XENLA,tp53,Cellular tumor antigen p53,Xenopus laevis,363
+Q9W678,P53_BARBU,tp53,Cellular tumor antigen p53,Barbus barbus,369

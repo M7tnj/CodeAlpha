@@ -1,0 +1,5632 @@
+{
+  "PS00001 N-glycosylation site (N-{P}-[ST]-{P})": [
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 221,
+      "end": 224,
+      "match": "NLSQ"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 259,
+      "end": 262,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 316,
+      "end": 319,
+      "match": "NESS"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 522,
+      "end": 525,
+      "match": "NLTI"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 239,
+      "end": 242,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 310,
+      "end": 313,
+      "match": "NNTS"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 126,
+      "end": 129,
+      "match": "NGSS"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 309,
+      "end": 312,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 237,
+      "end": 240,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 126,
+      "end": 129,
+      "match": "NGSS"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 309,
+      "end": 312,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 26,
+      "end": 29,
+      "match": "NLTQ"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 30,
+      "end": 33,
+      "match": "NLSF"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 96,
+      "end": 99,
+      "match": "NTSG"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 120,
+      "end": 123,
+      "match": "NTTL"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 277,
+      "end": 280,
+      "match": "NLSL"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 450,
+      "end": 453,
+      "match": "NVTN"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 529,
+      "end": 532,
+      "match": "NYSF"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 236,
+      "end": 239,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 4,
+      "end": 7,
+      "match": "NDSQ"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 177,
+      "end": 180,
+      "match": "NITL"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 207,
+      "end": 210,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 321,
+      "end": 324,
+      "match": "NDSL"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 251,
+      "end": 254,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 308,
+      "end": 311,
+      "match": "NEST"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 516,
+      "end": 519,
+      "match": "NLTI"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 126,
+      "end": 129,
+      "match": "NGSS"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 309,
+      "end": 312,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 232,
+      "end": 235,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 304,
+      "end": 307,
+      "match": "NTSS"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 49,
+      "end": 52,
+      "match": "NVTG"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 239,
+      "end": 242,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 311,
+      "end": 314,
+      "match": "NTSS"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 225,
+      "end": 228,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 217,
+      "end": 220,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 233,
+      "end": 236,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 236,
+      "end": 239,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 239,
+      "end": 242,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 237,
+      "end": 240,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 232,
+      "end": 235,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 239,
+      "end": 242,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 310,
+      "end": 313,
+      "match": "NNTS"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 190,
+      "end": 193,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 262,
+      "end": 265,
+      "match": "NTSS"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 227,
+      "end": 230,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 237,
+      "end": 240,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 308,
+      "end": 311,
+      "match": "NGTS"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 239,
+      "end": 242,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 310,
+      "end": 313,
+      "match": "NNTS"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 239,
+      "end": 242,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 310,
+      "end": 313,
+      "match": "NNTS"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 115,
+      "end": 118,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 187,
+      "end": 190,
+      "match": "NTSS"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 228,
+      "end": 231,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 239,
+      "end": 242,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 310,
+      "end": 313,
+      "match": "NNTS"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 232,
+      "end": 235,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 304,
+      "end": 307,
+      "match": "NTSS"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 242,
+      "end": 245,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 314,
+      "end": 317,
+      "match": "NTSS"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 232,
+      "end": 235,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 29,
+      "end": 32,
+      "match": "NTTR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 145,
+      "end": 148,
+      "match": "NQSI"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 283,
+      "end": 286,
+      "match": "NVSS"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 7,
+      "end": 10,
+      "match": "NVSL"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 228,
+      "end": 231,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 345,
+      "end": 348,
+      "match": "NDSL"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 83,
+      "end": 86,
+      "match": "NFTL"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 158,
+      "end": 161,
+      "match": "NDSS"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 215,
+      "end": 218,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 298,
+      "end": 301,
+      "match": "NSSS"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 221,
+      "end": 224,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 283,
+      "end": 286,
+      "match": "NTSS"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 221,
+      "end": 224,
+      "match": "NLSQ"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 259,
+      "end": 262,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 316,
+      "end": 319,
+      "match": "NESS"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 522,
+      "end": 525,
+      "match": "NLTI"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 214,
+      "end": 217,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 28,
+      "end": 31,
+      "match": "NESL"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 80,
+      "end": 83,
+      "match": "NDSG"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 153,
+      "end": 156,
+      "match": "NKSH"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 202,
+      "end": 205,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 38,
+      "end": 41,
+      "match": "NLSE"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 90,
+      "end": 93,
+      "match": "NGTA"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 214,
+      "end": 217,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 263,
+      "end": 266,
+      "match": "NYTK"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 203,
+      "end": 206,
+      "match": "NSSC"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 318,
+      "end": 321,
+      "match": "NDSL"
+    }
+  ],
+  "PS00004 Protein kinase C (PKC) phosphorylation ([ST]-x-[RK])": [
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 34,
+      "end": 36,
+      "match": "SSR"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 76,
+      "end": 78,
+      "match": "SSR"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 136,
+      "end": 138,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 231,
+      "end": 233,
+      "match": "TGR"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 319,
+      "end": 321,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 326,
+      "end": 328,
+      "match": "SKR"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 388,
+      "end": 390,
+      "match": "SYR"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 99,
+      "end": 101,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 118,
+      "end": 120,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 211,
+      "end": 213,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 303,
+      "end": 305,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 371,
+      "end": 373,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 377,
+      "end": 379,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 5,
+      "end": 7,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 30,
+      "end": 32,
+      "match": "SWK"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 86,
+      "end": 88,
+      "match": "TNK"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 186,
+      "end": 188,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 281,
+      "end": 283,
+      "match": "TGR"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 358,
+      "end": 360,
+      "match": "SIR"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 367,
+      "end": 369,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 374,
+      "end": 376,
+      "match": "TKR"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 389,
+      "end": 391,
+      "match": "SIK"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 434,
+      "end": 436,
+      "match": "TYR"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 586,
+      "end": 588,
+      "match": "SLK"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 645,
+      "end": 647,
+      "match": "TLR"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 97,
+      "end": 99,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 116,
+      "end": 118,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 209,
+      "end": 211,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 301,
+      "end": 303,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 327,
+      "end": 329,
+      "match": "TLK"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 369,
+      "end": 371,
+      "match": "TKK"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 375,
+      "end": 377,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 5,
+      "end": 7,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 30,
+      "end": 32,
+      "match": "SWK"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 86,
+      "end": 88,
+      "match": "TNK"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 186,
+      "end": 188,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 281,
+      "end": 283,
+      "match": "TGR"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 358,
+      "end": 360,
+      "match": "SIR"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 367,
+      "end": 369,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 374,
+      "end": 376,
+      "match": "TKR"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 389,
+      "end": 391,
+      "match": "SIK"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 434,
+      "end": 436,
+      "match": "TYR"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 586,
+      "end": 588,
+      "match": "SLK"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 645,
+      "end": 647,
+      "match": "TLR"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 667,
+      "end": 669,
+      "match": "SRR"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 80,
+      "end": 82,
+      "match": "TKK"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 104,
+      "end": 106,
+      "match": "SDK"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 130,
+      "end": 132,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 160,
+      "end": 162,
+      "match": "SMK"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 184,
+      "end": 186,
+      "match": "TQK"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 279,
+      "end": 281,
+      "match": "SLR"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 311,
+      "end": 313,
+      "match": "TER"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 521,
+      "end": 523,
+      "match": "SMK"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 531,
+      "end": 533,
+      "match": "SFR"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 620,
+      "end": 622,
+      "match": "SSK"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 96,
+      "end": 98,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 115,
+      "end": 117,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 208,
+      "end": 210,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 300,
+      "end": 302,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 326,
+      "end": 328,
+      "match": "TLK"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 368,
+      "end": 370,
+      "match": "TKK"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 374,
+      "end": 376,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 86,
+      "end": 88,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 179,
+      "end": 181,
+      "match": "TLR"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 273,
+      "end": 275,
+      "match": "TKR"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 285,
+      "end": 287,
+      "match": "TLR"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 291,
+      "end": 293,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 128,
+      "end": 130,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 223,
+      "end": 225,
+      "match": "TGR"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 311,
+      "end": 313,
+      "match": "TTK"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 318,
+      "end": 320,
+      "match": "SKR"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 380,
+      "end": 382,
+      "match": "SYR"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 616,
+      "end": 618,
+      "match": "SRK"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 5,
+      "end": 7,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 30,
+      "end": 32,
+      "match": "SWK"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 86,
+      "end": 88,
+      "match": "TNK"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 186,
+      "end": 188,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 281,
+      "end": 283,
+      "match": "TGR"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 358,
+      "end": 360,
+      "match": "SIR"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 367,
+      "end": 369,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 374,
+      "end": 376,
+      "match": "TKR"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 389,
+      "end": 391,
+      "match": "SIK"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 434,
+      "end": 436,
+      "match": "TYR"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 586,
+      "end": 588,
+      "match": "SLK"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 645,
+      "end": 647,
+      "match": "TLR"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 667,
+      "end": 669,
+      "match": "SRR"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 91,
+      "end": 93,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 110,
+      "end": 112,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 204,
+      "end": 206,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 296,
+      "end": 298,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 364,
+      "end": 366,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 99,
+      "end": 101,
+      "match": "SYK"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 118,
+      "end": 120,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 211,
+      "end": 213,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 303,
+      "end": 305,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 329,
+      "end": 331,
+      "match": "TLK"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 371,
+      "end": 373,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 103,
+      "end": 105,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 141,
+      "end": 143,
+      "match": "SLR"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 196,
+      "end": 198,
+      "match": "TTK"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 96,
+      "end": 98,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 189,
+      "end": 191,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 281,
+      "end": 283,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 307,
+      "end": 309,
+      "match": "TLK"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 92,
+      "end": 94,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 111,
+      "end": 113,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 205,
+      "end": 207,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 297,
+      "end": 299,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 365,
+      "end": 367,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 96,
+      "end": 98,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 115,
+      "end": 117,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 208,
+      "end": 210,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 300,
+      "end": 302,
+      "match": "SSK"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 316,
+      "end": 318,
+      "match": "TKK"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 375,
+      "end": 377,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 99,
+      "end": 101,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 118,
+      "end": 120,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 211,
+      "end": 213,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 261,
+      "end": 263,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 303,
+      "end": 305,
+      "match": "SIK"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 371,
+      "end": 373,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 377,
+      "end": 379,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 97,
+      "end": 99,
+      "match": "SHK"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 116,
+      "end": 118,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 209,
+      "end": 211,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 259,
+      "end": 261,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 327,
+      "end": 329,
+      "match": "TLK"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 353,
+      "end": 355,
+      "match": "TEK"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 369,
+      "end": 371,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 91,
+      "end": 93,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 110,
+      "end": 112,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 204,
+      "end": 206,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 296,
+      "end": 298,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 348,
+      "end": 350,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 370,
+      "end": 372,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 99,
+      "end": 101,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 118,
+      "end": 120,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 211,
+      "end": 213,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 303,
+      "end": 305,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 371,
+      "end": 373,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 377,
+      "end": 379,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 49,
+      "end": 51,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 68,
+      "end": 70,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 162,
+      "end": 164,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 254,
+      "end": 256,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 105,
+      "end": 107,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 199,
+      "end": 201,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 291,
+      "end": 293,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 343,
+      "end": 345,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 365,
+      "end": 367,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 116,
+      "end": 118,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 209,
+      "end": 211,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 301,
+      "end": 303,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 327,
+      "end": 329,
+      "match": "TLK"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 369,
+      "end": 371,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 375,
+      "end": 377,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 99,
+      "end": 101,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 118,
+      "end": 120,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 211,
+      "end": 213,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 303,
+      "end": 305,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 371,
+      "end": 373,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 377,
+      "end": 379,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 99,
+      "end": 101,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 118,
+      "end": 120,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 211,
+      "end": 213,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 303,
+      "end": 305,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 371,
+      "end": 373,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 377,
+      "end": 379,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 87,
+      "end": 89,
+      "match": "TLR"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 179,
+      "end": 181,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 87,
+      "end": 89,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 106,
+      "end": 108,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 200,
+      "end": 202,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 292,
+      "end": 294,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 360,
+      "end": 362,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 99,
+      "end": 101,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 118,
+      "end": 120,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 211,
+      "end": 213,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 303,
+      "end": 305,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 371,
+      "end": 373,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 377,
+      "end": 379,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 91,
+      "end": 93,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 110,
+      "end": 112,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 204,
+      "end": 206,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 296,
+      "end": 298,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 364,
+      "end": 366,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 102,
+      "end": 104,
+      "match": "SYK"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 121,
+      "end": 123,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 214,
+      "end": 216,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 306,
+      "end": 308,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 332,
+      "end": 334,
+      "match": "TLK"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 374,
+      "end": 376,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 91,
+      "end": 93,
+      "match": "SQK"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 110,
+      "end": 112,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 204,
+      "end": 206,
+      "match": "TFR"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 296,
+      "end": 298,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 348,
+      "end": 350,
+      "match": "TAR"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 364,
+      "end": 366,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 30,
+      "end": 32,
+      "match": "TTR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 99,
+      "end": 101,
+      "match": "SGR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 124,
+      "end": 126,
+      "match": "TSR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 205,
+      "end": 207,
+      "match": "SER"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 232,
+      "end": 234,
+      "match": "SNR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 309,
+      "end": 311,
+      "match": "SIR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 350,
+      "end": 352,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 434,
+      "end": 436,
+      "match": "SEK"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 476,
+      "end": 478,
+      "match": "SSR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 509,
+      "end": 511,
+      "match": "SRR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 528,
+      "end": 530,
+      "match": "SNK"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 545,
+      "end": 547,
+      "match": "SEK"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 584,
+      "end": 586,
+      "match": "SDK"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 632,
+      "end": 634,
+      "match": "SSK"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 106,
+      "end": 108,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 200,
+      "end": 202,
+      "match": "TLR"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 313,
+      "end": 315,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 368,
+      "end": 370,
+      "match": "TKR"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 274,
+      "end": 276,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 279,
+      "end": 281,
+      "match": "TKR"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 282,
+      "end": 284,
+      "match": "SMK"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 293,
+      "end": 295,
+      "match": "SKK"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 348,
+      "end": 350,
+      "match": "TCR"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 103,
+      "end": 105,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 193,
+      "end": 195,
+      "match": "TKR"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 286,
+      "end": 288,
+      "match": "SSK"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 345,
+      "end": 347,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 34,
+      "end": 36,
+      "match": "SSR"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 76,
+      "end": 78,
+      "match": "SSR"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 136,
+      "end": 138,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 231,
+      "end": 233,
+      "match": "TGR"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 319,
+      "end": 321,
+      "match": "SAK"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 326,
+      "end": 328,
+      "match": "SKR"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 388,
+      "end": 390,
+      "match": "SYR"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 96,
+      "end": 98,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 175,
+      "end": 177,
+      "match": "SQR"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 186,
+      "end": 188,
+      "match": "TKR"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 264,
+      "end": 266,
+      "match": "STK"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 274,
+      "end": 276,
+      "match": "TKK"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 352,
+      "end": 354,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 84,
+      "end": 86,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 93,
+      "end": 95,
+      "match": "SVK"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 174,
+      "end": 176,
+      "match": "TRR"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 260,
+      "end": 262,
+      "match": "TKK"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 273,
+      "end": 275,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 294,
+      "end": 296,
+      "match": "SIR"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 330,
+      "end": 332,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 33,
+      "end": 35,
+      "match": "TCR"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 92,
+      "end": 94,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 186,
+      "end": 188,
+      "match": "SGR"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 265,
+      "end": 267,
+      "match": "TKK"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 273,
+      "end": 275,
+      "match": "SGK"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 304,
+      "end": 306,
+      "match": "TLR"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 335,
+      "end": 337,
+      "match": "TIK"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 82,
+      "end": 84,
+      "match": "TAK"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 287,
+      "end": 289,
+      "match": "SKK"
+    }
+  ],
+  "PS00005 Casein kinase II phosphorylation ([ST]-x(2)-[DE])": [
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 13,
+      "end": 16,
+      "match": "TTFE"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 20,
+      "end": 23,
+      "match": "SSLE"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 27,
+      "end": 30,
+      "match": "TYFD"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 47,
+      "end": 50,
+      "match": "SSMD"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 70,
+      "end": 73,
+      "match": "STMD"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 104,
+      "end": 107,
+      "match": "STFD"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 117,
+      "end": 120,
+      "match": "SNTD"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 524,
+      "end": 527,
+      "match": "TIED"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 631,
+      "end": 634,
+      "match": "TEAE"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 183,
+      "end": 186,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 256,
+      "end": 259,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 284,
+      "end": 287,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 30,
+      "end": 33,
+      "match": "SWKE"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 154,
+      "end": 157,
+      "match": "STFD"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 167,
+      "end": 170,
+      "match": "SNTD"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 560,
+      "end": 563,
+      "match": "SCLD"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 580,
+      "end": 583,
+      "match": "SMDD"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 633,
+      "end": 636,
+      "match": "TRGE"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 4,
+      "end": 7,
+      "match": "SQSD"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 42,
+      "end": 45,
+      "match": "SMED"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 181,
+      "end": 184,
+      "match": "SDGD"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 254,
+      "end": 257,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 282,
+      "end": 285,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 30,
+      "end": 33,
+      "match": "SWKE"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 154,
+      "end": 157,
+      "match": "STFD"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 167,
+      "end": 170,
+      "match": "SNTD"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 560,
+      "end": 563,
+      "match": "SCLD"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 580,
+      "end": 583,
+      "match": "SMDD"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 633,
+      "end": 636,
+      "match": "TRGE"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 97,
+      "end": 100,
+      "match": "TSGD"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 140,
+      "end": 143,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 188,
+      "end": 191,
+      "match": "TQMD"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 247,
+      "end": 250,
+      "match": "SEHE"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 309,
+      "end": 312,
+      "match": "SHTE"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 328,
+      "end": 331,
+      "match": "SEHE"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 512,
+      "end": 515,
+      "match": "TEHE"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 538,
+      "end": 541,
+      "match": "STAE"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 598,
+      "end": 601,
+      "match": "TMGD"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 2,
+      "end": 5,
+      "match": "TAME"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 7,
+      "end": 10,
+      "match": "SQSD"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 180,
+      "end": 183,
+      "match": "SDGD"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 253,
+      "end": 256,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 281,
+      "end": 284,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 26,
+      "end": 29,
+      "match": "SCWD"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 297,
+      "end": 300,
+      "match": "SSSD"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 333,
+      "end": 336,
+      "match": "SDAE"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 370,
+      "end": 373,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 10,
+      "end": 13,
+      "match": "STFE"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 17,
+      "end": 20,
+      "match": "SSLE"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 24,
+      "end": 27,
+      "match": "TYFD"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 39,
+      "end": 42,
+      "match": "SGSE"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 44,
+      "end": 47,
+      "match": "SNMD"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 62,
+      "end": 65,
+      "match": "SAMD"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 96,
+      "end": 99,
+      "match": "STFD"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 109,
+      "end": 112,
+      "match": "SNTD"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 518,
+      "end": 521,
+      "match": "TIED"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 626,
+      "end": 629,
+      "match": "TETE"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 30,
+      "end": 33,
+      "match": "SWKE"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 154,
+      "end": 157,
+      "match": "STFD"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 167,
+      "end": 170,
+      "match": "SNTD"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 560,
+      "end": 563,
+      "match": "SCLD"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 580,
+      "end": 583,
+      "match": "SMDD"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 633,
+      "end": 636,
+      "match": "TRGE"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 4,
+      "end": 7,
+      "match": "SQAE"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 51,
+      "end": 54,
+      "match": "TWLD"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 249,
+      "end": 252,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 277,
+      "end": 280,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 40,
+      "end": 43,
+      "match": "SIEE"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 70,
+      "end": 73,
+      "match": "STAE"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 183,
+      "end": 186,
+      "match": "SEGD"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 256,
+      "end": 259,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 84,
+      "end": 87,
+      "match": "STED"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 26,
+      "end": 29,
+      "match": "SSED"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 161,
+      "end": 164,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 234,
+      "end": 237,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 262,
+      "end": 265,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 4,
+      "end": 7,
+      "match": "SQAE"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 250,
+      "end": 253,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 278,
+      "end": 281,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 4,
+      "end": 7,
+      "match": "SQSD"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 45,
+      "end": 48,
+      "match": "SAED"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 180,
+      "end": 183,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 253,
+      "end": 256,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 281,
+      "end": 284,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 308,
+      "end": 311,
+      "match": "TTTD"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 183,
+      "end": 186,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 256,
+      "end": 259,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 284,
+      "end": 287,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 181,
+      "end": 184,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 254,
+      "end": 257,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 282,
+      "end": 285,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 353,
+      "end": 356,
+      "match": "TEKE"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 18,
+      "end": 21,
+      "match": "TFSE"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 249,
+      "end": 252,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 277,
+      "end": 280,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 348,
+      "end": 351,
+      "match": "SGKE"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 183,
+      "end": 186,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 256,
+      "end": 259,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 284,
+      "end": 287,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 207,
+      "end": 210,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 235,
+      "end": 238,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 4,
+      "end": 7,
+      "match": "SQSE"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 18,
+      "end": 21,
+      "match": "TFSE"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 244,
+      "end": 247,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 272,
+      "end": 275,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 343,
+      "end": 346,
+      "match": "SGKE"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 46,
+      "end": 49,
+      "match": "SSED"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 181,
+      "end": 184,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 282,
+      "end": 285,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 183,
+      "end": 186,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 256,
+      "end": 259,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 284,
+      "end": 287,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 183,
+      "end": 186,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 256,
+      "end": 259,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 284,
+      "end": 287,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 132,
+      "end": 135,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 160,
+      "end": 163,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 4,
+      "end": 7,
+      "match": "SQAE"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 52,
+      "end": 55,
+      "match": "TWLD"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 245,
+      "end": 248,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 257,
+      "end": 260,
+      "match": "SSFE"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 273,
+      "end": 276,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 183,
+      "end": 186,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 256,
+      "end": 259,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 284,
+      "end": 287,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 4,
+      "end": 7,
+      "match": "SQAE"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 51,
+      "end": 54,
+      "match": "TWLD"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 249,
+      "end": 252,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 277,
+      "end": 280,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 40,
+      "end": 43,
+      "match": "SIEE"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 186,
+      "end": 189,
+      "match": "SEGD"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 259,
+      "end": 262,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 4,
+      "end": 7,
+      "match": "SQSE"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 18,
+      "end": 21,
+      "match": "TFSD"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 249,
+      "end": 252,
+      "match": "TLED"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 277,
+      "end": 280,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 348,
+      "end": 351,
+      "match": "TARE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 30,
+      "end": 33,
+      "match": "TTRE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 38,
+      "end": 41,
+      "match": "TLDE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 55,
+      "end": 58,
+      "match": "SENE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 125,
+      "end": 128,
+      "match": "SRSE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 171,
+      "end": 174,
+      "match": "TKEE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 232,
+      "end": 235,
+      "match": "SNRE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 254,
+      "end": 257,
+      "match": "SDFE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 350,
+      "end": 353,
+      "match": "SKKD"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 378,
+      "end": 381,
+      "match": "SCLD"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 545,
+      "end": 548,
+      "match": "SEKE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 579,
+      "end": 582,
+      "match": "SRLD"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 598,
+      "end": 601,
+      "match": "SAAD"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 610,
+      "end": 613,
+      "match": "TMLD"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 623,
+      "end": 626,
+      "match": "SAFE"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 633,
+      "end": 636,
+      "match": "SKME"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 16,
+      "end": 19,
+      "match": "SFED"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 57,
+      "end": 60,
+      "match": "SLFE"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 62,
+      "end": 65,
+      "match": "SATE"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 73,
+      "end": 76,
+      "match": "STLD"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 87,
+      "end": 90,
+      "match": "TTSD"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 169,
+      "end": 172,
+      "match": "STSE"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 284,
+      "end": 287,
+      "match": "TTLE"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 323,
+      "end": 326,
+      "match": "SDDE"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 393,
+      "end": 396,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 282,
+      "end": 285,
+      "match": "SMKD"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 299,
+      "end": 302,
+      "match": "SSSD"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 13,
+      "end": 16,
+      "match": "SFQE"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 33,
+      "end": 36,
+      "match": "TVNE"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 57,
+      "end": 60,
+      "match": "TFDD"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 110,
+      "end": 113,
+      "match": "TYSE"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 265,
+      "end": 268,
+      "match": "TEEE"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 294,
+      "end": 297,
+      "match": "SSGE"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 13,
+      "end": 16,
+      "match": "TTFE"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 20,
+      "end": 23,
+      "match": "SSLE"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 27,
+      "end": 30,
+      "match": "TYFD"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 47,
+      "end": 50,
+      "match": "SSMD"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 70,
+      "end": 73,
+      "match": "STMD"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 104,
+      "end": 107,
+      "match": "STFD"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 117,
+      "end": 120,
+      "match": "SNTD"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 524,
+      "end": 527,
+      "match": "TIED"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 632,
+      "end": 635,
+      "match": "TEAE"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 19,
+      "end": 22,
+      "match": "SFSE"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 34,
+      "end": 37,
+      "match": "TIAE"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 103,
+      "end": 106,
+      "match": "TFSE"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 259,
+      "end": 262,
+      "match": "TDEE"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 298,
+      "end": 301,
+      "match": "SSAE"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 363,
+      "end": 366,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 14,
+      "end": 17,
+      "match": "TFHD"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 26,
+      "end": 29,
+      "match": "TENE"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 50,
+      "end": 53,
+      "match": "TMQE"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 223,
+      "end": 226,
+      "match": "TEGE"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 281,
+      "end": 284,
+      "match": "SSGE"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 306,
+      "end": 309,
+      "match": "SLND"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 339,
+      "end": 342,
+      "match": "SDSD"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 7,
+      "end": 10,
+      "match": "TGMD"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 17,
+      "end": 20,
+      "match": "TFED"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 73,
+      "end": 76,
+      "match": "STDD"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 259,
+      "end": 262,
+      "match": "TEED"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 311,
+      "end": 314,
+      "match": "SRYE"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 17,
+      "end": 20,
+      "match": "STQE"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 23,
+      "end": 26,
+      "match": "TCWE"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 35,
+      "end": 38,
+      "match": "SSFD"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 295,
+      "end": 298,
+      "match": "SSDE"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 330,
+      "end": 333,
+      "match": "SEMD"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 366,
+      "end": 369,
+      "match": "SDSD"
+    }
+  ],
+  "PS00006 Tyrosine kinase phosphorylation ([RK]-x(2,3)-[DE]-x(2,3)-Y)": [
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 302,
+      "end": 309,
+      "match": "RKADEDHY"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 347,
+      "end": 355,
+      "match": "RRHGDEDTY"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 320,
+      "end": 327,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 394,
+      "end": 402,
+      "match": "RSPDDELLY"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 418,
+      "end": 426,
+      "match": "KESLELMQY"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 318,
+      "end": 325,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 394,
+      "end": 402,
+      "match": "RSPDDELLY"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 418,
+      "end": 426,
+      "match": "KESLELMQY"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 422,
+      "end": 429,
+      "match": "RFPELPAY"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 317,
+      "end": 324,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 294,
+      "end": 301,
+      "match": "RKADEDHY"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 340,
+      "end": 348,
+      "match": "RHGDEDMFY"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 394,
+      "end": 402,
+      "match": "RSPDDELLY"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 418,
+      "end": 426,
+      "match": "KESLELMQY"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 313,
+      "end": 320,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 320,
+      "end": 327,
+      "match": "KKTLDGEY"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 298,
+      "end": 305,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 314,
+      "end": 321,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 318,
+      "end": 325,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 320,
+      "end": 327,
+      "match": "KKPLDEEY"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 318,
+      "end": 325,
+      "match": "KKPLDAEY"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 313,
+      "end": 320,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 320,
+      "end": 327,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 271,
+      "end": 278,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 308,
+      "end": 315,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 318,
+      "end": 325,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 320,
+      "end": 327,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 320,
+      "end": 327,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 309,
+      "end": 316,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 320,
+      "end": 327,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 313,
+      "end": 320,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 323,
+      "end": 330,
+      "match": "RKTLDGEY"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 313,
+      "end": 320,
+      "match": "KKPLDGEY"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 328,
+      "end": 336,
+      "match": "KTPRESFFY"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 510,
+      "end": 517,
+      "match": "RRMEMSFY"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 543,
+      "end": 549,
+      "match": "KLSEKEY"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 647,
+      "end": 654,
+      "match": "RVQENIRY"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 302,
+      "end": 309,
+      "match": "RKADEDHY"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 347,
+      "end": 355,
+      "match": "RRHGDEDTY"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 257,
+      "end": 264,
+      "match": "RRTEEDNY"
+    }
+  ],
+  "PS00008 N-myristoylation site (G-{EDRKHPFYW}-x(2)-[STAGCN]-{P})": [
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 11,
+      "end": 15,
+      "match": "GGTTF"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 56,
+      "end": 60,
+      "match": "GMTTS"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 264,
+      "end": 268,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 323,
+      "end": 327,
+      "match": "GAASK"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 419,
+      "end": 423,
+      "match": "GGMNK"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 451,
+      "end": 455,
+      "match": "GMLNN"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 513,
+      "end": 517,
+      "match": "GLQSI"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 572,
+      "end": 576,
+      "match": "GGSGE"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 244,
+      "end": 248,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 374,
+      "end": 378,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 84,
+      "end": 88,
+      "match": "GATNK"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 115,
+      "end": 119,
+      "match": "GLLNS"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 127,
+      "end": 131,
+      "match": "GSSST"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 314,
+      "end": 318,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 498,
+      "end": 502,
+      "match": "GMGAN"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 557,
+      "end": 561,
+      "match": "GCSSC"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 569,
+      "end": 573,
+      "match": "GLTTI"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 242,
+      "end": 246,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 372,
+      "end": 376,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 84,
+      "end": 88,
+      "match": "GATNK"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 115,
+      "end": 119,
+      "match": "GLLNG"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 127,
+      "end": 131,
+      "match": "GSSST"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 314,
+      "end": 318,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 498,
+      "end": 502,
+      "match": "GMGAN"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 557,
+      "end": 561,
+      "match": "GCSSC"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 569,
+      "end": 573,
+      "match": "GLTTI"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 622,
+      "end": 626,
+      "match": "GASTV"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 65,
+      "end": 69,
+      "match": "GISTI"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 72,
+      "end": 76,
+      "match": "GILGN"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 110,
+      "end": 114,
+      "match": "GLMND"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 241,
+      "end": 245,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 371,
+      "end": 375,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 23,
+      "end": 27,
+      "match": "GGGSC"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 212,
+      "end": 216,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 296,
+      "end": 300,
+      "match": "GSSSD"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 256,
+      "end": 260,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 315,
+      "end": 319,
+      "match": "GAASK"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 413,
+      "end": 417,
+      "match": "GGVNK"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 445,
+      "end": 449,
+      "match": "GMLNS"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 507,
+      "end": 511,
+      "match": "GLQSI"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 565,
+      "end": 569,
+      "match": "GGSGE"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 593,
+      "end": 597,
+      "match": "GGAGA"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 84,
+      "end": 88,
+      "match": "GATNK"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 115,
+      "end": 119,
+      "match": "GLLNS"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 127,
+      "end": 131,
+      "match": "GSSST"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 314,
+      "end": 318,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 498,
+      "end": 502,
+      "match": "GMGAN"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 557,
+      "end": 561,
+      "match": "GCSSC"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 569,
+      "end": 573,
+      "match": "GLTTI"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 622,
+      "end": 626,
+      "match": "GASTV"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 237,
+      "end": 241,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 63,
+      "end": 67,
+      "match": "GVAAA"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 244,
+      "end": 248,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 374,
+      "end": 378,
+      "match": "GQSAS"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 168,
+      "end": 172,
+      "match": "GGGTD"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 230,
+      "end": 234,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 279,
+      "end": 283,
+      "match": "GGAGG"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 222,
+      "end": 226,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 289,
+      "end": 293,
+      "match": "GTNSS"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 238,
+      "end": 242,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 305,
+      "end": 309,
+      "match": "GTSSS"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 241,
+      "end": 245,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 372,
+      "end": 376,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 244,
+      "end": 248,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 311,
+      "end": 315,
+      "match": "GSSSS"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 374,
+      "end": 378,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 242,
+      "end": 246,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 372,
+      "end": 376,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 62,
+      "end": 66,
+      "match": "GMSAV"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 237,
+      "end": 241,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 367,
+      "end": 371,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 244,
+      "end": 248,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 374,
+      "end": 378,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 195,
+      "end": 199,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 232,
+      "end": 236,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 362,
+      "end": 366,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 242,
+      "end": 246,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 257,
+      "end": 261,
+      "match": "GSSGN"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 309,
+      "end": 313,
+      "match": "GTSSS"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 372,
+      "end": 376,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 244,
+      "end": 248,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 374,
+      "end": 378,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 244,
+      "end": 248,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 374,
+      "end": 378,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 120,
+      "end": 124,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 233,
+      "end": 237,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 244,
+      "end": 248,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 374,
+      "end": 378,
+      "match": "GQSTS"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 237,
+      "end": 241,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 63,
+      "end": 67,
+      "match": "GSAAA"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 247,
+      "end": 251,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 377,
+      "end": 381,
+      "match": "GQSAS"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 237,
+      "end": 241,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 28,
+      "end": 32,
+      "match": "GNTTR"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 93,
+      "end": 97,
+      "match": "GALGF"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 233,
+      "end": 237,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 80,
+      "end": 84,
+      "match": "GLLNF"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 202,
+      "end": 206,
+      "match": "GSQST"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 220,
+      "end": 224,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 355,
+      "end": 359,
+      "match": "GAAGE"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 226,
+      "end": 230,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 11,
+      "end": 15,
+      "match": "GGTTF"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 56,
+      "end": 60,
+      "match": "GMTTS"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 264,
+      "end": 268,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 323,
+      "end": 327,
+      "match": "GAASK"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 419,
+      "end": 423,
+      "match": "GGVNK"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 451,
+      "end": 455,
+      "match": "GMLNN"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 471,
+      "end": 475,
+      "match": "GTQSM"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 513,
+      "end": 517,
+      "match": "GLQSI"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 555,
+      "end": 559,
+      "match": "GAAAQ"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 573,
+      "end": 577,
+      "match": "GGSGE"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 219,
+      "end": 223,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 36,
+      "end": 40,
+      "match": "GLLSQ"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 207,
+      "end": 211,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 57,
+      "end": 61,
+      "match": "GLMGN"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 219,
+      "end": 223,
+      "match": "GGMNR"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 208,
+      "end": 212,
+      "match": "GGMNR"
+    }
+  ],
+  "PS50053 P53 tetramerisation motif ([STA]-x(2)-[STA]-x(3)-[STA])": [
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 76,
+      "end": 83,
+      "match": "SSRAASAS"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 97,
+      "end": 104,
+      "match": "SPYAQPSS"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 105,
+      "end": 112,
+      "match": "TFDTMSPA"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 134,
+      "end": 141,
+      "match": "SSTAKSAT"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 326,
+      "end": 333,
+      "match": "SKRAFKQS"
+    },
+    {
+      "seq_id": "sp|O15350|P73_HUMAN",
+      "start": 563,
+      "end": 570,
+      "match": "SSNAATIS"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 76,
+      "end": 83,
+      "match": "APAAPTPA"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 99,
+      "end": 106,
+      "match": "SQKTYQGS"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 116,
+      "end": 123,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 253,
+      "end": 260,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P04637|P53_HUMAN",
+      "start": 364,
+      "end": 371,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 27,
+      "end": 34,
+      "match": "AHFSWKES"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 129,
+      "end": 136,
+      "match": "SSTSPYNT"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 147,
+      "end": 154,
+      "match": "SPYAQPSS"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 155,
+      "end": 162,
+      "match": "TFDALSPS"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 184,
+      "end": 191,
+      "match": "SSTAKSAT"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 455,
+      "end": 462,
+      "match": "SPSSYGNS"
+    },
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 624,
+      "end": 631,
+      "match": "STVSVGSS"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 79,
+      "end": 86,
+      "match": "APVAPASA"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 116,
+      "end": 123,
+      "match": "TAKSVMCT"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 251,
+      "end": 258,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 302,
+      "end": 309,
+      "match": "AKRALPTS"
+    },
+    {
+      "seq_id": "sp|P10361|P53_RAT",
+      "start": 357,
+      "end": 364,
+      "match": "SGDSRAHS"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 27,
+      "end": 34,
+      "match": "SHFSWKES"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 44,
+      "end": 51,
+      "match": "TQTSEFLS"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 129,
+      "end": 136,
+      "match": "SSTSPYNT"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 147,
+      "end": 154,
+      "match": "SPYAQPSS"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 155,
+      "end": 162,
+      "match": "TFDALSPS"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 184,
+      "end": 191,
+      "match": "SSTAKSAT"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 455,
+      "end": 462,
+      "match": "SQSSYGNS"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 624,
+      "end": 631,
+      "match": "STVSVGSS"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 239,
+      "end": 246,
+      "match": "SDMAFAIS"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 333,
+      "end": 340,
+      "match": "SYSAEKGS"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 463,
+      "end": 470,
+      "match": "SYSSPSNS"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 531,
+      "end": 538,
+      "match": "SFRTLTLS"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 581,
+      "end": 588,
+      "match": "AIKAGHDS"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 115,
+      "end": 122,
+      "match": "TAKSVMCT"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 250,
+      "end": 257,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 304,
+      "end": 311,
+      "match": "ALPTCTSA"
+    },
+    {
+      "seq_id": "sp|P02340|P53_MOUSE",
+      "start": 356,
+      "end": 363,
+      "match": "SGDSRAHS"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 84,
+      "end": 91,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P79734|P53_DANRE",
+      "start": 291,
+      "end": 298,
+      "match": "SKKAKGSS"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 2,
+      "end": 9,
+      "match": "AQTSSSSS"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 32,
+      "end": 39,
+      "match": "SQGTSEAS"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 71,
+      "end": 78,
+      "match": "AAPASPYT"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 82,
+      "end": 89,
+      "match": "AASAPTHS"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 97,
+      "end": 104,
+      "match": "TFDTMSPA"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 126,
+      "end": 133,
+      "match": "SSTAKSAT"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 318,
+      "end": 325,
+      "match": "SKRAFKQS"
+    },
+    {
+      "seq_id": "sp|Q9JJP2|P73_MOUSE",
+      "start": 556,
+      "end": 563,
+      "match": "SSNAATIS"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 27,
+      "end": 34,
+      "match": "AHFSWKES"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 44,
+      "end": 51,
+      "match": "TQTSEFLS"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 129,
+      "end": 136,
+      "match": "SSTSPYNT"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 147,
+      "end": 154,
+      "match": "SPYAQPSS"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 155,
+      "end": 162,
+      "match": "TFDALSPS"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 184,
+      "end": 191,
+      "match": "SSTAKSAT"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 455,
+      "end": 462,
+      "match": "SQSSYGNS"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 624,
+      "end": 631,
+      "match": "STVSVGSS"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 68,
+      "end": 75,
+      "match": "APAAPPPA"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 108,
+      "end": 115,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 175,
+      "end": 182,
+      "match": "SDYSDGLA"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 246,
+      "end": 253,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 300,
+      "end": 307,
+      "match": "ALPTNTSS"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 357,
+      "end": 364,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 65,
+      "end": 72,
+      "match": "AAAAASTA"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 81,
+      "end": 88,
+      "match": "APVASAPA"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 116,
+      "end": 123,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 307,
+      "end": 314,
+      "match": "ALPTNTSS"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 364,
+      "end": 371,
+      "match": "AHSSYLKS"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 101,
+      "end": 108,
+      "match": "AGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 49,
+      "end": 56,
+      "match": "APKAPTPA"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 59,
+      "end": 66,
+      "match": "TLAAPTPA"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 94,
+      "end": 101,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 231,
+      "end": 238,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|Q64662|P53_OTOBE",
+      "start": 285,
+      "end": 292,
+      "match": "ALPTGTNS"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 69,
+      "end": 76,
+      "match": "APAAPTPA"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 92,
+      "end": 99,
+      "match": "SQKTYPGS"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 109,
+      "end": 116,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 176,
+      "end": 183,
+      "match": "SDYSDGLA"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 247,
+      "end": 254,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 301,
+      "end": 308,
+      "match": "ALPTGTSS"
+    },
+    {
+      "seq_id": "sp|Q8SPZ3|P53_DELLE",
+      "start": 358,
+      "end": 365,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 68,
+      "end": 75,
+      "match": "APEAPAPA"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 78,
+      "end": 85,
+      "match": "ALAAPAPA"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 113,
+      "end": 120,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 250,
+      "end": 257,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 301,
+      "end": 308,
+      "match": "SKRALPTT"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 309,
+      "end": 316,
+      "match": "TTDSSPQT"
+    },
+    {
+      "seq_id": "sp|Q95330|P53_RABIT",
+      "start": 362,
+      "end": 369,
+      "match": "AHSSYLKA"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 76,
+      "end": 83,
+      "match": "APAAPTPA"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 99,
+      "end": 106,
+      "match": "SQKTYQGS"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 116,
+      "end": 123,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 253,
+      "end": 260,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 307,
+      "end": 314,
+      "match": "ALPTGSSS"
+    },
+    {
+      "seq_id": "sp|Q9TTA1|P53_TUPBE",
+      "start": 359,
+      "end": 366,
+      "match": "SAGSRAHS"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 67,
+      "end": 74,
+      "match": "APVSEAPT"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 79,
+      "end": 86,
+      "match": "ALVAPAPA"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 114,
+      "end": 121,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 251,
+      "end": 258,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|Q9WUR6|P53_CAVPO",
+      "start": 305,
+      "end": 312,
+      "match": "ALPTSTSS"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 61,
+      "end": 68,
+      "match": "SGMSAVPA"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 73,
+      "end": 80,
+      "match": "APATPAPA"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 91,
+      "end": 98,
+      "match": "SQKTYPGA"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 108,
+      "end": 115,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 246,
+      "end": 253,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 297,
+      "end": 304,
+      "match": "TKRALPPS"
+    },
+    {
+      "seq_id": "sp|P41685|P53_FELCA",
+      "start": 357,
+      "end": 364,
+      "match": "AHSSHLKA"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 67,
+      "end": 74,
+      "match": "SEAAPPMA"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 76,
+      "end": 83,
+      "match": "TPAAPTPA"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 99,
+      "end": 106,
+      "match": "SQKTYHGS"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 116,
+      "end": 123,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 253,
+      "end": 260,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P56424|P53_MACMU",
+      "start": 364,
+      "end": 371,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 31,
+      "end": 38,
+      "match": "APLAPAPA"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 66,
+      "end": 73,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 133,
+      "end": 140,
+      "match": "SDSSDGLA"
+    },
+    {
+      "seq_id": "sp|P79892|P53_HORSE",
+      "start": 204,
+      "end": 211,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 68,
+      "end": 75,
+      "match": "APTAPGPA"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 86,
+      "end": 93,
+      "match": "SPKTYPGT"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 103,
+      "end": 110,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 170,
+      "end": 177,
+      "match": "SDSSDGLA"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 241,
+      "end": 248,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 292,
+      "end": 299,
+      "match": "TKRALPPS"
+    },
+    {
+      "seq_id": "sp|Q29537|P53_CANLF",
+      "start": 352,
+      "end": 359,
+      "match": "AHSSHLKA"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 69,
+      "end": 76,
+      "match": "APKAPTPA"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 79,
+      "end": 86,
+      "match": "TLAAPSPA"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 114,
+      "end": 121,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|O36006|P53_MARMO",
+      "start": 251,
+      "end": 258,
+      "match": "TIITLEGS"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 67,
+      "end": 74,
+      "match": "SEAAPHMA"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 76,
+      "end": 83,
+      "match": "TPAAPTPA"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 99,
+      "end": 106,
+      "match": "SQKTYHGS"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 116,
+      "end": 123,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 253,
+      "end": 260,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P13481|P53_CHLAE",
+      "start": 364,
+      "end": 371,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 67,
+      "end": 74,
+      "match": "SEAAPPMA"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 76,
+      "end": 83,
+      "match": "TPAAPTPA"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 99,
+      "end": 106,
+      "match": "SQKTYHGS"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 116,
+      "end": 123,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 253,
+      "end": 260,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P61260|P53_MACFU",
+      "start": 364,
+      "end": 371,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 58,
+      "end": 65,
+      "match": "SDSSDGLA"
+    },
+    {
+      "seq_id": "sp|Q29480|P53_EQUAS",
+      "start": 129,
+      "end": 136,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 69,
+      "end": 76,
+      "match": "AQAALAPA"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 104,
+      "end": 111,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 171,
+      "end": 178,
+      "match": "SDYSDGLA"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 242,
+      "end": 249,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 293,
+      "end": 300,
+      "match": "TKRALPSS"
+    },
+    {
+      "seq_id": "sp|P51664|P53_SHEEP",
+      "start": 353,
+      "end": 360,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 67,
+      "end": 74,
+      "match": "SEAAPPMA"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 76,
+      "end": 83,
+      "match": "TPAAPTPA"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 99,
+      "end": 106,
+      "match": "SQKTYHGS"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 116,
+      "end": 123,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 253,
+      "end": 260,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P56423|P53_MACFA",
+      "start": 364,
+      "end": 371,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 68,
+      "end": 75,
+      "match": "APAAPPPA"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 108,
+      "end": 115,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 175,
+      "end": 182,
+      "match": "SDYSDGLA"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 246,
+      "end": 253,
+      "match": "TIITLEDS"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 300,
+      "end": 307,
+      "match": "ALPTNTSS"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 357,
+      "end": 364,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 64,
+      "end": 71,
+      "match": "SAAAAAPA"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 84,
+      "end": 91,
+      "match": "APVASAPA"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 119,
+      "end": 126,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 310,
+      "end": 317,
+      "match": "ALPTNTSS"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 358,
+      "end": 365,
+      "match": "ALKASEDS"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 367,
+      "end": 374,
+      "match": "AHSSYLKS"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 68,
+      "end": 75,
+      "match": "AATAPAPA"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 91,
+      "end": 98,
+      "match": "SQKTYPGS"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 108,
+      "end": 115,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 175,
+      "end": 182,
+      "match": "SDYSDGLA"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 246,
+      "end": 253,
+      "match": "TIITLEDA"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 297,
+      "end": 304,
+      "match": "TKRALPTS"
+    },
+    {
+      "seq_id": "sp|Q9TUB2|P53_PIG",
+      "start": 357,
+      "end": 364,
+      "match": "AHSSHLKS"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 87,
+      "end": 94,
+      "match": "THLSLMST"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 358,
+      "end": 365,
+      "match": "AKLAPGTT"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 448,
+      "end": 455,
+      "match": "ADQSSLHS"
+    },
+    {
+      "seq_id": "sp|A8WW61|CEP1_CAEBR",
+      "start": 474,
+      "end": 481,
+      "match": "SSSSRKRA"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 2,
+      "end": 9,
+      "match": "ADLAENVS"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 64,
+      "end": 71,
+      "match": "TEPAPQPS"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 104,
+      "end": 111,
+      "match": "SSTAKSVT"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 316,
+      "end": 323,
+      "match": "TKSSPAVS"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 63,
+      "end": 70,
+      "match": "SSSSPPTS"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 91,
+      "end": 98,
+      "match": "SSGTKSVT"
+    },
+    {
+      "seq_id": "sp|O93379|P53_ICTPU",
+      "start": 293,
+      "end": 300,
+      "match": "SKKSKNSS"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 101,
+      "end": 108,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 76,
+      "end": 83,
+      "match": "SSRAASAS"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 97,
+      "end": 104,
+      "match": "SPYAQPSS"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 105,
+      "end": 112,
+      "match": "TFDTMSPA"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 134,
+      "end": 141,
+      "match": "SSTAKSAT"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 326,
+      "end": 333,
+      "match": "SKRAFKQS"
+    },
+    {
+      "seq_id": "sp|Q9XSK8|P73_CHLAE",
+      "start": 564,
+      "end": 571,
+      "match": "SSNAAAIS"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 26,
+      "end": 33,
+      "match": "SVQTPSIA"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 94,
+      "end": 101,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 282,
+      "end": 289,
+      "match": "SNSAPHTT"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 4,
+      "end": 11,
+      "match": "ADLTLPLS"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 82,
+      "end": 89,
+      "match": "SGTAKSVT"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 216,
+      "end": 223,
+      "match": "TILTLETT"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 265,
+      "end": 272,
+      "match": "SAPAPDTS"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 274,
+      "end": 281,
+      "match": "AKKSKSAS"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 67,
+      "end": 74,
+      "match": "TSCAVPST"
+    },
+    {
+      "seq_id": "sp|P07193|P53_XENLA",
+      "start": 92,
+      "end": 99,
+      "match": "TAKSVTCT"
+    },
+    {
+      "seq_id": "sp|Q9W678|P53_BARBU",
+      "start": 80,
+      "end": 87,
+      "match": "SGTAKSVT"
+    }
+  ],
+  "PS00007 cAMP/cGMP-dependent kinase ([RK](2)-x-[ST])": [
+    {
+      "seq_id": "sp|Q9H3D4|P63_HUMAN",
+      "start": 392,
+      "end": 395,
+      "match": "KRRS"
+    },
+    {
+      "seq_id": "sp|Q9JJP6|P63_RAT",
+      "start": 392,
+      "end": 395,
+      "match": "KRRS"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 81,
+      "end": 84,
+      "match": "KKRT"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 371,
+      "end": 374,
+      "match": "RRKT"
+    },
+    {
+      "seq_id": "sp|Q20646|CEP1_CAEEL",
+      "start": 430,
+      "end": 433,
+      "match": "KKAS"
+    },
+    {
+      "seq_id": "sp|O88898|P63_MOUSE",
+      "start": 392,
+      "end": 395,
+      "match": "KRRS"
+    },
+    {
+      "seq_id": "sp|P67939|P53_BOVIN",
+      "start": 366,
+      "end": 369,
+      "match": "KRPS"
+    },
+    {
+      "seq_id": "sp|O09185|P53_CRIGR",
+      "start": 319,
+      "end": 322,
+      "match": "KKKT"
+    },
+    {
+      "seq_id": "sp|P10360|P53_CHICK",
+      "start": 198,
+      "end": 201,
+      "match": "KRHS"
+    },
+    {
+      "seq_id": "sp|P67938|P53_BOSIN",
+      "start": 366,
+      "end": 369,
+      "match": "KRPS"
+    },
+    {
+      "seq_id": "sp|Q00366|P53_MESAU",
+      "start": 322,
+      "end": 325,
+      "match": "KRKT"
+    },
+    {
+      "seq_id": "sp|P25035|P53_ONCMY",
+      "start": 152,
+      "end": 155,
+      "match": "KKLS"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 194,
+      "end": 197,
+      "match": "KRQS"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 278,
+      "end": 281,
+      "match": "RKVT"
+    },
+    {
+      "seq_id": "sp|P79820|P53_ORYLA",
+      "start": 289,
+      "end": 292,
+      "match": "RKKS"
+    },
+    {
+      "seq_id": "sp|O12946|P53_PLAFE",
+      "start": 187,
+      "end": 190,
+      "match": "KRQS"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 175,
+      "end": 178,
+      "match": "RRHS"
+    },
+    {
+      "seq_id": "sp|O57538|P53_XIPHE",
+      "start": 262,
+      "end": 265,
+      "match": "KRKS"
+    }
+  ]
+}

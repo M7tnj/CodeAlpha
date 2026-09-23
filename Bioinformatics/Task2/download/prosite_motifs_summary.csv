@@ -1,0 +1,9 @@
+motif,n_hits,n_seqs_with_hit,fraction_seqs
+PS00001 N-glycosylation site (N-{P}-[ST]-{P}),88,40,1.0
+PS00004 Protein kinase C (PKC) phosphorylation ([ST]-x-[RK]),254,40,1.0
+PS00005 Casein kinase II phosphorylation ([ST]-x(2)-[DE]),217,40,1.0
+"PS00006 Tyrosine kinase phosphorylation ([RK]-x(2,3)-[DE]-x(2,3)-Y)",40,31,0.775
+PS00007 cAMP/cGMP-dependent kinase ([RK](2)-x-[ST]),18,13,0.325
+PS00008 N-myristoylation site (G-{EDRKHPFYW}-x(2)-[STAGCN]-{P}),117,40,1.0
+PS01042 P53 DNA-binding domain signature (L-F-E-[EA]-[STA]),0,0,0.0
+PS50053 P53 tetramerisation motif ([STA]-x(2)-[STA]-x(3)-[STA]),202,40,1.0
