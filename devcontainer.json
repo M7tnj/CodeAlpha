@@ -1,0 +1,9 @@
+{
+    "name": "Bioinformatics Task 3",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "runArgs": ["--init", "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined"],
+    "extensions": ["ms-python.python"],
+    "postCreateCommand": "sudo apt-get update && sudo apt-get install -y pymol"
+}
