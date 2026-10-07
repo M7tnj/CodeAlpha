@@ -1,0 +1,2 @@
+avg_plddt=98.06
+n_residues=142

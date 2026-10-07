@@ -1,0 +1,4 @@
+heme_residue_id=('H_HEM', 142, ' ')
+fe_coord=[8.656999588012695, 12.03499984741211, 27.628000259399414]
+proximal_his=His87_chainA
+distal_his=His58_chainA

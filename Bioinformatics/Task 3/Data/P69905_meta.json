@@ -1,0 +1,9 @@
+{
+  "uniprot_id": "P69905",
+  "protein_name": "Hemoglobin subunit alpha",
+  "organism": "Homo sapiens",
+  "gene_names": "HBA1, HBA2",
+  "sequence_length": 142,
+  "sequence": "MVLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR",
+  "header": ">sp|P69905|HBA_HUMAN Hemoglobin subunit alpha OS=Homo sapiens OX=9606 GN=HBA1 PE=1 SV=2"
+}
